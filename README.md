@@ -19,3 +19,5 @@ return '#{:02X}{:02X}{:02X}'.format(self.red,self.green,self.blue)
 
 
 3 - Stores these constants in an OrderedDict.
+
+![octocat-1688848888863](https://github.com/MMVonnSeek/Python-Color-Constants-Module/assets/89359847/b6b0c875-6011-4d51-bdc2-18408a9b0f05)
